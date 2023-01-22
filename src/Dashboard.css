@@ -1,0 +1,289 @@
+.Welcome {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    margin: 10px;
+}
+
+.Welcome-para {
+    width: 90%;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 16px;
+    color: black;
+}
+
+.Welcome-icon {
+    color: #5516aa;
+    font-size: 24px
+}
+
+.Welcome-div-icon {
+    width: 10%;
+    position: relative;
+    top: 7px;
+    left: 102px
+}
+
+.border-div {
+    margin-left: 10px;
+    /* width: 327px; */
+    height: 55px;
+    top: 136px;
+    left: 16px;
+    border-radius: 8px;
+    /* border: 1px solid blue;  */
+}
+
+.border-div-child {
+    font-family: 'League Spartan';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 16px;
+    color: #696D7C;
+
+}
+
+.border-div-child-2 {
+    margin-top: 10px;
+    font-family: 'League Spartan';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 24px;
+
+    color: #41C0D2;
+}
+
+.border-div-2 {
+    /* width: 318px; */
+    margin: 10px 10px 10px 10px;
+    /* height: 80px; */
+    top: 148px;
+    border: 1.5px solid #e9dcfa;
+    border-radius: 8px;
+
+    display: flex;
+    align-items: flex-start;
+    padding: 16px 15px;
+    gap: 149px;
+}
+
+.border-div-card1 {
+    width: 94px;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 16px;
+}
+
+.border-div-card1-child1 {
+    color: #696d7c;
+    font-family: 'League Spartan'
+}
+
+.border-div-card1-child2 {
+    font-family: 'League Spartan';
+    font-weight: 600;
+    margin-top: 10px;
+    font-size: 24px;
+    line-height: 24px;
+    color: #5516aa;
+}
+
+.border-div-card2 {
+    width: calc(100% - 97px)
+}
+
+.border-div-card2-child1 {
+    width: 83px;
+    height: 32px;
+    background: #e7f7f9;
+    opacity: 0.8;
+    border-radius: 150px;
+}
+
+.border-div-card2-child2 {
+    position: relative;
+    top: 6px;
+    left: 10px;
+    color: #41c0d2;
+    font-size: 12px;
+    line-height: 16px;
+    font-family: 'League Spartan';
+}
+
+.div-p1 {
+    /* width: 328px; */
+    height: 44px;
+    left: 16px;
+    background: #5516aa;
+    border-radius: 150px;
+    margin: 0px 16px;
+}
+
+.limit-p {
+    font-family: 'League Spartan';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 16px;
+    color: #ffffff;
+    padding: 12px 0px 0px 77px;
+}
+
+.fund-details-div-header {
+    /* width: 318px; */
+    /* height: 80px; */
+    /* top: 148px; */
+    border-radius: 8px;
+    display: flex;
+    /* align-items: flex-start; */
+    padding: 8px 15px;
+    gap: 68px;
+    margin: 14px 6px 0px 12px;
+}
+
+
+.fund-details-div-mutual {
+    font-family: 'League Spartan';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 16px;
+
+    color: #8181a5;
+}
+
+.fund-details-div-mutual-1 {
+    width: 91px;
+    height: 32px;
+    background: #fde9ea;
+    opacity: 0.8;
+    border-radius: 150px;
+    position: relative;
+    top: -15px;
+}
+
+.fund-details-div-mutual-p {
+    position: relative;
+    top: 6px;
+    left: 10px;
+    font-family: 'League Spartan';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 12px;
+    line-height: 16px;
+    color: #ef4f53;
+    ;
+}
+
+.fund-details-div {
+    width: 328px;
+    margin: 17px;
+    /* height: 80px; */
+    /* top: 148px; */
+    border: 1.5px solid #e9dcfa;
+    border-radius: 8px;
+}
+
+.fund-name-div {
+    font-family: 'League Spartan';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 24px;
+    padding: 10px 0px 0px 12px;
+}
+
+.fund-details-div-subclass {
+    display: flex;
+    align-items: flex-start;
+    padding: 8px 15px;
+    /* gap: 149px; */
+}
+
+.fund-details-div-subclass-design {
+    font-family: 'League Spartan';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 10px;
+    line-height: 24px;
+}
+
+.fund-details-spam {
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 12px;
+    line-height: 24px;
+    color: #41c0d2;
+    position: relative;
+    left: 55px;
+}
+
+.fund-details-div-subclass-2 {
+    font-family: 'League Spartan';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 10px;
+    line-height: 24px;
+}
+
+.fund-details-spam-2 {
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 12px;
+    line-height: 24px;
+    color: #5516aa;
+    position: relative;
+    left: 55px;
+}
+
+.div-units {
+    font-family: 'League Spartan';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 10px;
+    line-height: 24px;
+}
+
+
+.div-nav {
+    font-family: 'League Spartan';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 10px;
+    line-height: 24px;
+}
+
+.fund-details-spam-3 {
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 12px;
+    line-height: 24px;
+    /* or 200% */
+
+    color: #5516aa;
+    position: relative;
+    left: 55px;
+}
+
+.footer-menu {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    gap: 64px;
+    position: fixed;
+    width: 81%;
+    height: 76px;
+    left: 0px;
+    bottom: 0;
+    /* top: 790px; */
+    background: #ffffff;
+    box-shadow: 0px -4px 24px rgb(85 22 170 / 10%);
+}
